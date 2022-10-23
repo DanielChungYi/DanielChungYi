@@ -105,4 +105,4 @@ theme: icarus
 deploy:
   type: git
   repo: https://danielchungyi.github.io/DanielChungYi/
-  branch: master
+  branch: gh-pages
